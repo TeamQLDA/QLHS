@@ -1,0 +1,20 @@
+#thediv_scroll {
+  background-color: white;
+  height: 320px;
+ 
+  width: 100%;
+ 
+  overflow: auto;
+ 
+  border: 1px solid #CCCCCC;
+ 
+}
+.nav{
+  background-color: rgba(0,0,0,.5);
+}
+.nav th{
+  color: #fff;
+}
+.the{
+  text-align: center;
+}

@@ -1,0 +1,31 @@
+.top_aline{
+	height: 30px;
+	background-color: #EEE;
+}
+.dangnhap{
+	float: right;
+	height: 20px;
+	border: 1px solid #EEE;
+	margin-right: 50px;
+}
+.tieude_aline{
+	height: 100px;
+	background-image: url(../images/quanly.jpg);
+}
+.tieude_text{
+	font-size: 45px;
+	color: yellow;
+}
+.menu_aline{
+	height: 50px;
+	background-color:  #A3C9F0;
+}
+.quanly_boder{
+	background-color: #A3C9F0;
+}
+.quanlydulieu{
+	width: auto;
+	height: 470px;
+	background-color: #FFF;
+	margin-bottom: 10px;
+}
