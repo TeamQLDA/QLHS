@@ -19,6 +19,8 @@
 		<a href="#"> TRANG CHỦ</a>
 		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
 		<a href="qlhs.php"> QUẢN LÝ HỌC SINH </a>
+		<a href="qllophp.php"> QUẢN LÝ LỚP HỌC </a>
+		<a href="qlmonhoc.php"> QUẢN LÝ MÔN HỌC </a>
 		
 	</div>>
 	
