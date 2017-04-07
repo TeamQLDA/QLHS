@@ -1,6 +1,6 @@
 .top_aline{
 	height: 30px;
-	background-color: #EEE;
+	background-color: #red;
 }
 .dangnhap{
 	float: right;
@@ -10,7 +10,6 @@
 }
 .tieude_aline{
 	height: 100px;
-	background-image: url(../images/quanly.jpg);
 }
 .tieude_text{
 	font-size: 45px;
@@ -26,6 +25,5 @@
 .quanlydulieu{
 	width: auto;
 	height: 470px;
-	background-color: #FFF;
 	margin-bottom: 10px;
 }
