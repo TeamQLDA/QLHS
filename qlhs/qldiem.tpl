@@ -24,7 +24,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-				<div  id="thediv_scroll"> 
+				<div  id="thediv_scroll1"> 
 				<table class="table table-bordered">
 						<thead >
 							<tr>
