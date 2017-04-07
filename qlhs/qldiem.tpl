@@ -12,7 +12,7 @@
 		<img class="img1" src="congculamdep/anh/qtu1.png">
 	</div>
 	<div class="nav">
-			<a href="#"> TRANG CHỦ</a>
+			<a href="templates/giaodienquanly.html"> TRANG CHỦ</a>
 		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
 		<a href="qlhs.php"> QUẢN LÝ HỌC SINH </a>
 		<a href="qllophp.php"> QUẢN LÝ LỚP HỌC </a>
@@ -43,9 +43,9 @@
 									<td>{USER.mahs}</td>
 									<td>{USER.tenhs}</td>
 									<td>{USER.malop}</td>
-									<td><a href="thongtindiem.php?id={USER.mahs}"  title="xem thông tin điểm" class="btn btn-warning">
+									<td><a href="thongtindiem.php?id={USER.mahs}"  title="xem thông tin điểm" class="btn btn-info">
 											<i class="fa fa-edit"></i>
-											<span class="glyphicon glyphicon-edit"></span>
+											<span class="glyphicon glyphicon-eye-open"></span>
 										</a>
 									</td>
 									

@@ -16,7 +16,7 @@
 	<img class="img1" src="congculamdep/anh/qtu1.png">
 	</div>
 	<div class="nav">
-		<a href="#"> TRANG CHỦ</a>
+		<a href="templates/giaodienquanly.html"> TRANG CHỦ</a>
 		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
 		<a href="qlhs.php"> QUẢN LÝ HỌC SINH </a>
 		<a href="qllophp.php"> QUẢN LÝ LỚP HỌC </a>
@@ -59,7 +59,7 @@
 										</a>
 										<a href="sualop.php?id={USER.malop}" title="sửa thông tin" class="btn btn-primary">
 											<i class="fa fa-edit"></i>
-											<span class="glyphicon glyphicon-scissors"></span>
+											<span class="glyphicon glyphicon-pencil"></span>
 										</a>
 									</td>
 									

@@ -18,7 +18,7 @@
 					$resut = mysql_query($sql);
 					if (mysql_num_rows($resut)==1) {
 						
-							header('Location:qldiem.php');	
+							header('Location:templates/giaodienquanly.html');	
 						
 					}
 				}

@@ -60,9 +60,9 @@
 											<i class="fa fa-edit"></i>
 											<span class="glyphicon glyphicon-remove"></span>
 										</a>
-										<a href="suadiem.php?id={USER.id}"  title="sửa điểm" class="btn btn-danger">
+										<a href="suadiem.php?id={USER.id}"  title="sửa điểm" class="btn btn-primary">
 											<i class="fa fa-edit"></i>
-											<span class="glyphicon glyphicon-remove"></span>
+											<span class="glyphicon glyphicon-pencil"></span>
 										</a>
 									</td>
 									

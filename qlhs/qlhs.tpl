@@ -16,7 +16,7 @@
 	<img class="img1" src="congculamdep/anh/qtu1.png">
 	</div>
 	<div class="nav">
-			<a href="#"> TRANG CHỦ</a>
+			<a href="templates/giaodienquanly.html"> TRANG CHỦ</a>
 		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
 		<a href="qlhs.php"> QUẢN LÝ HỌC SINH </a>
 		<a href="qllophp.php"> QUẢN LÝ LỚP HỌC </a>
@@ -66,9 +66,9 @@
 											<i class="fa fa-edit"></i>
 											<span class="glyphicon glyphicon-remove"></span>
 										</a>
-										<a href="suahs.php?id={USER.mahs}" title="sửa thông tin" class="btn btn-danger">
+										<a href="suahs.php?id={USER.mahs}" title="sửa thông tin" class="btn btn-primary">
 											<i class="fa fa-edit"></i>
-											<span class="glyphicon glyphicon-remove"></span>
+											<span class="glyphicon glyphicon-pencil"></span>
 										</a>
 									</td>
 									
