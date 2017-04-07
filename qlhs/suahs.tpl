@@ -4,12 +4,22 @@
 <head>
 	<title>quản lý học sinh</title>
 	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="congculamdep/style.css">
 	<link rel="stylesheet" type="text/css" href="congculamdep/css/bootstrap.min.css">
+	<meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="congculamdep/dialog.css" />
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="congculamdep/dialog.js"></script>
 </head>
 <body>
-	<div class="formtren"></div>
+	<div class="formtren">
+		<img class="img1" src="congculamdep/anh/qtu1.png">
+	</div>
 	<div class="nav">
-		<a href="qlhs.php"> TRANG CHỦ</a>
+		<a href="#"> TRANG CHỦ</a>
+		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
+		<a href="qlhs.php"> QUẢN LÝ HỌC SINH </a>
+		
 	</div>
 	<div class="container">
 		<div class="row">

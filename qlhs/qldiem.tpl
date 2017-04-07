@@ -8,7 +8,9 @@
 	<link rel="stylesheet" type="text/css" href="congculamdep/style.css">
 </head>
 <body>
-	<div class="formtren"></div>
+	<div class="formtren">
+		<img class="img1" src="congculamdep/anh/qtu1.png">
+	</div>
 	<div class="nav">
 		<a href="#"> TRANG CHỦ</a>
 		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
