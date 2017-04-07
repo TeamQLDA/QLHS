@@ -2,20 +2,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>quản lý điểm</title>
+	<title> quản lý điểm</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" type="text/css" href="congculamdep/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="congculamdep/style.css">
 </head>
 <body>
 	<div class="formtren"></div>
 	<div class="nav">
-		<a href="index.php"> TRANG CHỦ</a>
+		<a href="#"> TRANG CHỦ</a>
+		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
+		<a href="qlhs.php"> QUẢN LÝ HỌC SINH </a>
+		
 	</div>
 	<div class="container">
 		<div class="row">
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
+				<div  id="thediv_scroll"> 
 				<table class="table table-bordered">
 						<thead >
 							<tr>
@@ -44,7 +49,7 @@
 							</tbody>
 							<!-- END:userlist -->
 					</table>
-					
+					</div>
 				</div>
 				<div class="col-md-2"></div>
 			</div>

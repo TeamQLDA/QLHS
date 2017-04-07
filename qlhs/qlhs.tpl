@@ -13,6 +13,12 @@
 </head>
 <body>
 	<div class="formtren"></div>
+	<div class="nav">
+		<a href="#"> TRANG CHỦ</a>
+		<a href="qldiem.php"> QUẢN LÝ ĐIỂM </a>
+		<a href="qlhs.php"> QUẢN LÝ HỌC SINH </a>
+		
+	</div>
 	<div class="container">
 		<div class="row">
 			<div class="row">
