@@ -30,7 +30,7 @@
 				<div class="col-md-2"></div>
 				<div class="col-md-8"> 
 				<div class="nut">
-					<a href="#login-box" class="login-window button btn btn-info" title="thêm học sinh">
+					<a href="#login-box" class="login-window button btn btn-info" title="thêm điểm">
 									<i class="fa fa-edit"></i>
 									<span class="glyphicon glyphicon-edit"></span>
 					</a>
@@ -79,17 +79,23 @@
 		<div id="login-box" class="login">
 		<p class="login_title"> thêm học sinh </p>
         <a href="#" class="close"><img src="congculamdep/close.png" class="img-close" title="Close Window" alt="Close" /></a>
-        <form method="post" class="login-content" action="them.php" enctype="multipart/form-data">
+        <form method="post" class="login-content" action="them.php?{USER.mahs}" enctype="multipart/form-data">
         	<table align="center">
         		<thead>
         			<div>
 				        	<table align="center">
 				        		<thead>
-				        			<tr><td><input type="text" name="mahs" class="form-control" placeholder="nhập mã hs" "></br></td>
+				        			<tr><td><input type="text" name="mahs" class="form-control" placeholder="nhập mã học sinh"></br></td>
 				        			<tr><td><select name="mamh">
 				        				<option value="">--Chọn--</option>
 				        				<option >MLS</option>
 				        				<option >MT</option>
+				        				<option >MAV</option>
+				        				<option >MDL</option>
+				        				<option >MH</option>
+				        				<option >MTH</option>
+				        				<option >MNV</option>
+				        				<option >MTD</option>
 
 				        				</select>
 				        			</br></td></tr>

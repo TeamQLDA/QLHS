@@ -45,7 +45,7 @@
 								<th> dân tộc </th>
 								<th> năm sinh </th>
 								<th> nơi sinh </th>
-								<th> quên quán </th>
+							
 								
 								<th> chức năng </th>
 							</tr>
@@ -61,7 +61,7 @@
 									<td>{USER.dantoc}</td>
 									<td>{USER.namsinh}</td>
 									<td>{USER.noisinh}</td>
-									<td>{USER.quequan}</td>
+									
 									<td><a href="xoa2.php?id={USER.mahs}" title="xóa " class="btn btn-danger">
 											<i class="fa fa-edit"></i>
 											<span class="glyphicon glyphicon-remove"></span>
@@ -98,7 +98,18 @@
 				        			<tr><td><input type="date" name="namsinh" class="form-control" ></br></td></tr>
 				        			<tr><td><input type="text" name="quequan" class="form-control" placeholder="nhập quê quán" "></br></td></tr>
 				        			<tr><td><input type="text" name="noisinh" class="form-control"  placeholder="nhập nơi sinh" "></br></td></tr>
-				        			<tr><td><input type="text" name="malop" class="form-control"  placeholder="nhập mã lớp" "></br></td></tr>
+				        			<tr><td><select name="malop">
+				        				<option value="">--Chọn lớp--</option>
+				        				<option >L2A</option>
+				        				<option >L2B</option>
+				        				<option >L3A</option>
+				        				<option >L3B</option>
+				        				<option >L4A</option>
+				        				<option >L4B</option>
+				        				
+
+				        				</select>
+				        			</br></td></tr></td></tr>
 				        			<tr><td><input type="submit" name="submit" class="btn btn-info" value="thêm" ></td></tr>
 								</thead>
 							</table> 
