@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Quản lý đội chơi</title>
+	<title>Xem điểm</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="../css/team.css">
 	<link rel="stylesheet" type="text/css" href="../css/bodycss.css">
@@ -13,7 +13,7 @@
 <div  class="row">
 	<div class="col-sm-0.5"></div>
 	<div class="col-sm-12 form-quanly">
-		<div class="text-center"><h1>Thông tin môn học</h1></div>
+		<div class="text-center"><h1>Thông tin điểm</h1></div>
 		<div>
 			<a href="../templates/giaodien.html">Về giao diện</a>
 		</div>

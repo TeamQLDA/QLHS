@@ -12,57 +12,52 @@
 	height: 300px;
 	
 }
-.body_aline_top{
-	height: 100px;
-	background-color: #87CEFA;
-}
 .body_aline_center{
 	height: 100px;
 	
 }
 .body_aline_center_left{
 	width: 50px;
-	height: 100px;
+	height: 300px;
 	background-color: #87CEFA;
 	float: left;
+}
+.font_name_color{
+	height: 50px;
+	width: 230px;
+	background-color: white;
 }
 .quanlyhocsinh{
 	
 	background-color: #792C00;
 	float: left;
-	height: 100px;
+	height: 80px;
 	width: 230px;
-	border: 1px solid yellow;
 }
 .quanlylop{
 	
 	background-color: #731600;
 	float: left;
-	height: 100px;
+	height: 80px;
 	width: 230px;
-	border: 1px solid yellow;
 }
 .quanlymonhoc{
 	
 	background-color: #710000;
 	float: left;
-	height: 100px;
+	height: 80px;
 	width: 230px;
-	border: dashed;
-	border: 1px solid yellow;
 }
 .quanlydiem{
 	
 	background-color: #730016;
 	float: left;
-	height: 100px;
+	height: 80px;
 	width: 230px;
-	border: dashed;
-	border: 1px solid yellow;
 }
 .body_aline_center_right{
 	width: 50px;
-	height: 100px;
+	height: 300px;
 	background-color: #87CEFA;
 	float: right;
 }
@@ -75,11 +70,16 @@
 	background-color: #14214B;
 }
 .font_name{
-	font-size: 35px;
-	color: white;
+	font-size: 30px;
+	color: blue;
 }
 .tieude_name{
 	font-size: 40px;
+	text-align: center;
+	color: yellow;
+}
+.tieude_name_1{
+	font-size: 30px;
 	text-align: center;
 	color: yellow;
 }

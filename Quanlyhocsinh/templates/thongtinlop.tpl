@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Quản lý đội chơi</title>
+	<title>Xem lớp</title>
 	<link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="../css/team.css">
 	<link rel="stylesheet" type="text/css" href="../css/bodycss.css">
